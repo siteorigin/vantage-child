@@ -1,2 +1,2 @@
-# vantage-child
-A Vantage child theme
+# Vantage Child Theme
+A Child theme of Vantage by SiteOrigin
